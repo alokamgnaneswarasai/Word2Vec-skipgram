@@ -67,7 +67,15 @@ The Skip-gram model is designed to predict the context words for a given center 
     - Define the neural network architecture for the Skip-gram model.
     - Train the model using the generated training examples.
     - Optimize the model parameters to learn the word embeddings.
+### Visualizations
 
+#### Word Relationships
+
+![Word Relationships](images/matrix.jpeg)
+
+#### Word Embeddings (t-SNE)
+
+![Word Embeddings (t-SNE)](images/tsne.jpeg)
 
 ## Requirements
 
